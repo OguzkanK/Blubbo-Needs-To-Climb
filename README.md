@@ -1,4 +1,4 @@
-![Blubbo Needs To Climb](https://github.com/OguzkanK/Blubbo-Needs-To-Climb/blob/main/Assets/Sprites/Banner.png?raw=true)
+![Blubbo Needs To Climb](Assets/Sprites/Banner.png)
 
 Blubbo needs to climb is a platformer game with procedurally generated levels.
 
