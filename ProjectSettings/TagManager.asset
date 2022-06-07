@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WaterCan
+  - StartingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Platform
+  - Bouncy Platform
+  - Collectible
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1133500351
+    locked: 0
+  - name: Platform Extras
+    uniqueID: 3772365037
+    locked: 0
+  - name: Platforms
+    uniqueID: 1135552919
+    locked: 0
+  - name: Entity
+    uniqueID: 3353831105
+    locked: 0
+  - name: Collectible
+    uniqueID: 2355225651
+    locked: 0

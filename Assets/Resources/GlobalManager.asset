@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: add231e0b83acd14ba0f694caaf9119f, type: 3}
+  m_Name: GlobalManager
+  m_EditorClassIdentifier: 
+  stageNumber: 19
+  waterCans: 0
+  totalScore: 3500
+  playerLives: -1
+  playerHealth: 1
+  platformSprites:
+  - {fileID: 21300000, guid: 3637b25636ee5bc419c0c16984430dea, type: 3}
+  - {fileID: 21300000, guid: 7d669f2b3613a164d9dbc8460ace43bc, type: 3}
+  - {fileID: 21300000, guid: b7fce31f1764af847a3e5ad9b1e14f81, type: 3}
+  - {fileID: 21300000, guid: b4a596e7b6c0b914688eaed6782be5a1, type: 3}
+  - {fileID: 21300000, guid: de08a4713c45cb24a980291f39cbaeea, type: 3}
+  - {fileID: 21300000, guid: 6c80fc6fbc5f16346b9cd6f93ba263a9, type: 3}
+  spikedEnemySprites:
+  - {fileID: 21300000, guid: 17a16b46645c67b42bdfceef27b5baf6, type: 3}
+  - {fileID: 21300000, guid: b1976e2c1806d1540b2c5da1d675313a, type: 3}
+  entitiesList:
+  - {fileID: 5042764167612619219, guid: 322cfb129cfa64644822445208bf8029, type: 3}
+  - {fileID: 3182457455133736232, guid: 4c289676023bc7d408ceaf45ad307dee, type: 3}
+  - {fileID: 5595449342752332889, guid: afa3d20910d0af14e821e5a4826e7329, type: 3}
